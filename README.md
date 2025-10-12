@@ -4,6 +4,8 @@
 
 **MSc. Biochemistry**,    [**University of Bremen**](https://www.uni-bremen.de/en/)
 
+**Visiting Researcher, Drug Design**, [**University of Eastern Finland**](https://www.uef.fi/en)  
+
 **Dip. Computer Science**, [**University of Essex**](https://www.essex.ac.uk)
 
 **Dip. Business**,         [**University of Essex**](https://www.essex.ac.uk) 
