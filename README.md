@@ -2,7 +2,15 @@
 <!-- Banner or introduction -->
 # Ahmed Sobhy, MSc 
 
-**Pharmacist** based in **Germany** | **M.Sc. Biochemistry, University of Bremen**  
+**MSc. Biochemistry**,    [**University of Bremen**](https://www.uni-bremen.de/en/)
+
+**Dip. Computer Science**, [**University of Essex**](https://www.essex.ac.uk)
+
+**Dip. Business**,         [**University of Essex**](https://www.essex.ac.uk) 
+
+**BSc. Pharmacy**,         [**University of Ain Shams**](https://pharma.asu.edu.eg/) | based in **Germany**
+
+
 Focused on **Drug Design**, **Protein Modeling**, and the integration of **AI & Machine Learning** into computational biochemistry.  
 
 ---
